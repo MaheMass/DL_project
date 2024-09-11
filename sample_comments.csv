@@ -1,0 +1,11 @@
+text,sentiment_label,sentiment_score
+"I love this product! 😊",1,0.9
+"Not happy with the service 😞",0,0.1
+"Amazing experience! 🤩",1,0.95
+"This is the worst! 😡",0,0.2
+"So excited about this event! 🎉",1,0.85
+"Pretty boring... 😴",0,0.3
+"Excellent quality and service! 😍",1,0.98
+"Disappointed... won't buy again 😢",0,0.15
+"Best day ever! 🌟",1,0.9
+"Waste of money 😠",0,0.05
